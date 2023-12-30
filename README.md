@@ -1,4 +1,4 @@
-# Bike_Rental
+# Bike Rental
 
 **Authors:** Fabio Tavares and Lilian Stein
 
