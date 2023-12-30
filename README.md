@@ -1,8 +1,12 @@
-Project by [Fabio Tavares](https://www.linkedin.com/in/fabiohsst/) and [Lilian Stein](https://www.linkedin.com/in/liliamcristinestein/)
-
 # Bike_Rental
 
-## Task in hand
+**Authors:** Fabio Tavares and Lilian Stein
+
+**Email:** fabio.tavares.fma@gmail.com
+
+**LinkedIn:** [Fabiohsst](https://www.linkedin.com/in/fabiohsst/) and [Liliamcristinestein](https://www.linkedin.com/in/liliamcristinestein/)
+
+## Task
 The main goal of this notebook was to calculate hourly flow of bikes per day of the week and visualize the variance of the peak times during the period analysed and define patterns of peaks (if there are any) considering peak times in car's traffic in Dublin city found in TomTom website 2. The just mentioned displays a heatmap with peaks at 8am, during the afternoon with stronger peaks around 2pm, 4pm and 5pm. Thereafter, if successful, reproduce that method in specific stands enabling singular visualizations.
 
 As direction points:
